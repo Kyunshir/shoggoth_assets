@@ -6,8 +6,9 @@
       }
 
       .st1 {
-        fill: #474e6e;
-        stroke-width: 4.8px;
+        fill: #ebdfa1;
+        stroke-linejoin: round;
+        stroke-width: 2.6px;
       }
 
       .st1, .st2 {
@@ -15,9 +16,8 @@
       }
 
       .st2 {
-        fill: #ebdfa1;
-        stroke-linejoin: round;
-        stroke-width: 2.6px;
+        fill: #8d6f33;
+        stroke-width: 5.2px;
       }
 
       .st3 {
@@ -28,7 +28,7 @@
 </clipPath>
 </defs>
 <g class="st3">
-<path class="st1" d="M50,97.4c26.2,0,47.4-21.2,47.4-47.4S76.2,2.6,50,2.6,2.6,23.8,2.6,50s21.2,47.4,47.4,47.4Z"/>
-<path class="st2" d="M71.3,64.5H28l21.6-38.3,21.6,38.3Z"/>
+<path class="st2" d="M50,97.4c26.2,0,47.4-21.2,47.4-47.4S76.2,2.6,50,2.6,2.6,23.8,2.6,50s21.2,47.4,47.4,47.4Z"/>
+<path class="st1" d="M34.4,68.3l15.6-9.9,15.6,9.9V31.7s-15.6,9.9-15.6,9.9l-15.6-9.9v36.6Z"/>
 </g>
 </svg>
