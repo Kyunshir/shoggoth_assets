@@ -68,7 +68,7 @@
     },
     "text_font": {
         "font": "regular",
-        "size": 80,
+        "size": 64,
         "color": "#231f20",
         "alignment": "left"
     },

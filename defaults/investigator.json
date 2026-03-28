@@ -56,10 +56,10 @@
     "agility_font": { "font": "skill", "size": 90, "alignment": "center" },
 
     "health": "7",
-    "health_region": { "x": 1540, "y": 1320, "width": 120, "height": 160 },
+    "health_region": { "x": 1530, "y": 1315, "width": 140, "height": 170 },
     "health_font": {
         "font": "skill",
-        "size": 110,
+        "size": 120,
         "color": "white",
         "outline": 4,
         "outline_color": "#cb270d",
@@ -67,10 +67,10 @@
     },
 
     "sanity": "7",
-    "sanity_region": { "x": 1714, "y": 1324, "width": 200, "height": 160 },
+    "sanity_region": { "x": 1714, "y": 1315, "width": 200, "height": 160 },
     "sanity_font": {
         "font": "skill",
-        "size": 110,
+        "size": 120,
         "color": "white",
         "outline": 4,
         "outline_color": "#1c2b48",
